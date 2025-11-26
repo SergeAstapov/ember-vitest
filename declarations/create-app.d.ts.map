@@ -1,0 +1,1 @@
+{"version":3,"file":"create-app.d.ts","sourceRoot":"","sources":["../src/create-app.ts"],"names":[],"mappings":"AAAA,OAAO,WAAW,MAAM,mCAAmC,CAAC;AAC5D,OAAO,KAAK,gBAAgB,MAAM,oBAAoB,CAAC;AAEvD,cAAM,GAAI,SAAQ,WAAW;IAC3B,OAAO,KAAM;CACd;AAED,wBAAgB,SAAS,CAAC,OAAO,EAAE,WAAW;;;EAE7C;AAED,wBAAgB,MAAM,CACpB,GAAG,EAAE,OAAO,gBAAgB,GAAG,SAAS,EACxC,OAAO,EAAE,WAAW;;;;;;GAOrB"}
